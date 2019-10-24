@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TrendMoviesTextView">
+        <item name="android:textSize">@dimen/normalText</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">@dimen/paddingXS</item>
+    </style>
+
+    <style name="TrendMoviesTextView.H1">
+        <item name="android:textSize">@dimen/largeText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TrendMoviesTextView.H2">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TrendMoviesTextView.Tiny">
+        <item name="android:textSize">@dimen/smallText</item>
+        <item name="android:textColor">@color/white4</item>
+    </style>
+
+</resources>
