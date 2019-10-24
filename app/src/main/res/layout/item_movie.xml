@@ -11,14 +11,15 @@
 
     <ImageView
         android:id="@+id/miniPosterIV"
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="0.3"/>
+        android:layout_marginRight="@dimen/paddingXS"/>
+
 
     <LinearLayout
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_weight="0.7"
+        android:layout_weight="1"
         android:orientation="vertical">
 
         <TextView

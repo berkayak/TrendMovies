@@ -15,7 +15,7 @@ interface IMovieService {
         const val BASE_URL = "https://api.themoviedb.org/3/"
         const val API_KEY = "ab2a366c08405280632a081894b72544"
 
-        const val MINI_POSTER_BASE = "https://image.tmdb.org/t/p/w138_and_h175_face"
+        const val MINI_POSTER_BASE = "https://image.tmdb.org/t/p/w138_and_h175_bestv2"
         const val POSTER_BASE = "https://image.tmdb.org/t/p/w780"
     }
 

@@ -12,7 +12,7 @@
         android:name="net.berkayak.trendmovies.view.ListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="0.3" />
+        android:layout_weight="0.35" />
 
     <View
         android:layout_width="4dp"
@@ -24,5 +24,5 @@
         android:name="net.berkayak.trendmovies.view.DetailFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="0.7"/>
+        android:layout_weight="0.65"/>
 </LinearLayout>
